@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Se connecter &lsaquo; Health Magazine &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://malouse.github.io/healthmagazine/wp-includes/css/dashicons.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://malouse.github.io/healthmagazine/wp-includes/css/buttons.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://malouse.github.io/healthmagazine/wp-admin/css/forms.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://malouse.github.io/healthmagazine/wp-admin/css/l10n.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://malouse.github.io/healthmagazine/wp-admin/css/login.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/malouse.github.io/healthmagazine/wp-includes/css/dashicons.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/malouse.github.io/healthmagazine/wp-includes/css/buttons.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/malouse.github.io/healthmagazine/wp-admin/css/forms.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/malouse.github.io/healthmagazine/wp-admin/css/l10n.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/malouse.github.io/healthmagazine/wp-admin/css/login.min.css?ver=5.0.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://wpfr.net/" title="Propulsé par WordPress" tabindex="-1">Propulsé par WordPress</a></h1>
 	
-<form name="loginform" id="loginform" action="/https://malouse.github.io/healthmagazine/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="http://localhost/https:/malouse.github.io/healthmagazine/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Identifiant ou adresse e-mail<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -40,7 +40,7 @@
 </form>
 
 <p id="nav">
-	<a href="/https://malouse.github.io/healthmagazine/wp-login.php?action=lostpassword">Mot de passe oublié ?</a>
+	<a href="http://localhost/https:/malouse.github.io/healthmagazine/wp-login.php?action=lostpassword">Mot de passe oublié ?</a>
 </p>
 
 <script type="text/javascript">
@@ -57,7 +57,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="/https://malouse.github.io/healthmagazine/">&larr; Retour vers Health Magazine</a></p>
+	<p id="backtoblog"><a href="http://localhost/https:/malouse.github.io/healthmagazine/">&larr; Retour vers Health Magazine</a></p>
 		
 	</div>
 
