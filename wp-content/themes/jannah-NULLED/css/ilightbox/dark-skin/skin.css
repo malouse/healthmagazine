@@ -7,7 +7,7 @@
 	        box-shadow: black 0px 0px 85px, black 0px 0px 85px;
 }
 .ilightbox-loader.dark div {
-	background: #000 url('preloader.gif') no-repeat center;
+	background: #000 url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/preloader.gif') no-repeat center;
 }
 
 .ilightbox-holder.dark {
@@ -19,20 +19,20 @@
 }
 
 .ilightbox-holder.dark .ilightbox-container  .ilightbox-caption {
-	background: url('caption-bg.png');
+	background: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/caption-bg.png');
 	color: #FFF;
 	text-shadow: 0 1px black;
 }
 
 .ilightbox-holder.dark .ilightbox-container .ilightbox-social {
-	background: url('caption-bg.png');
+	background: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/caption-bg.png');
 	
 	-webkit-border-radius: 2px;
 	        border-radius: 2px;
 }
 
 .ilightbox-holder.dark .ilightbox-alert {
-	background: url('alert.png') no-repeat center top;
+	background: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/alert.png') no-repeat center top;
 	color: #555;
 }
 
@@ -45,7 +45,7 @@
 .ilightbox-toolbar.dark a {
 	width: 25px;
 	height: 23px;
-	background: black url('buttons.png') no-repeat 7px 6px;
+	background: black url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/buttons.png') no-repeat 7px 6px;
 }
 
 .ilightbox-toolbar.dark a.disabled {
@@ -125,35 +125,35 @@
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-fullscreen {
-	background-image: url('fullscreen-icon-64.png');
-	background-image/*\**/: url('fullscreen-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/fullscreen-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/fullscreen-icon-ie.png')\9;  /* IE7-8 */
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-close {
-	background-image: url('x-mark-icon-64.png');
-	background-image/*\**/: url('x-mark-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/x-mark-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/x-mark-icon-ie.png')\9;  /* IE7-8 */
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-next-button {
-	background-image: url('arrow-next-icon-64.png');
-	background-image/*\**/: url('arrow-next-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-next-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-next-icon-ie.png')\9;  /* IE7-8 */
 	background-position: 52% 50%;
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-prev-button {
-	background-image: url('arrow-prev-icon-64.png');
-	background-image/*\**/: url('arrow-prev-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-prev-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-prev-icon-ie.png')\9;  /* IE7-8 */
 	background-position: 48% 50%;
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-play {
-	background-image: url('play-icon-64.png');
-	background-image/*\**/: url('play-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/play-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/play-icon-ie.png')\9;  /* IE7-8 */
 }
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-pause {
-	background-image: url('pause-icon-64.png');
-	background-image/*\**/: url('pause-icon-ie.png')\9;  /* IE7-8 */
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/pause-icon-64.png');
+	background-image/*\**/: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/pause-icon-ie.png')\9;  /* IE7-8 */
 }
 
 .ilightbox-holder.dark .ilightbox-inner-toolbar .ilightbox-title {
@@ -195,7 +195,7 @@
 }
 
 .ilightbox-thumbnails.dark .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
-	background: url('thumb-overlay-play.png') no-repeat center;
+	background: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/thumb-overlay-play.png') no-repeat center;
 }
 
 /* Configure arrow buttons */
@@ -219,7 +219,7 @@
 	width: 95px;
 	height: 75px;
 	margin: auto;
-	background: url('arrow-next-vertical-icon-64.png') no-repeat 50% 65%;
+	background: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-next-vertical-icon-64.png') no-repeat 50% 65%;
 	background-color: #000;
 
 	-webkit-border-radius: 0;
@@ -235,7 +235,7 @@
 .ilightbox-button.ilightbox-prev-button.dark {
 	top: 0;
 	bottom: auto;
-	background-image: url('arrow-prev-vertical-icon-64.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-prev-vertical-icon-64.png');
 	background-position: 50% 35%;
 
 	-webkit-border-radius: 0;
@@ -254,7 +254,7 @@
 	bottom/*\**/: auto\9;  /* IE7-8 */
 	width: 75px;
 	height: 95px;
-	background-image: url('arrow-next-icon-64.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-next-icon-64.png');
 	background-position: 65% 50%;
 
 	-webkit-border-radius: 0;
@@ -267,7 +267,7 @@
 .ilightbox-button.ilightbox-prev-button.dark.horizontal {
 	right: auto;
 	left: 0;
-	background-image: url('arrow-prev-icon-64.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/dark-skin/arrow-prev-icon-64.png');
 	background-position: 35% 50%;
 
 	-webkit-border-radius: 0;

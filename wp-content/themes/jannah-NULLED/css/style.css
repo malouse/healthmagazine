@@ -368,7 +368,7 @@ pre {
   color: #3f3b36;
   border: 1px solid #0088ff;
   border-left: 10px solid #0088ff;
-  background: url(../images/code-bg.png) repeat top;
+  background: url(https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/images/code-bg.png) repeat top;
   background-size: 1px 40px;
   text-align: left;
   direction: ltr;
@@ -1122,7 +1122,7 @@ a.small-btn,
 }
 
 .ilightbox-closedhand * {
-  cursor: url(ilightbox/closedhand.cur), default !important;
+  cursor: url(https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/css/ilightbox/closedhand.cur), default !important;
 }
 
 .ilightbox-overlay {
@@ -18952,8 +18952,8 @@ body.admin-bar.is-mobile .close-side-aside {
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("../fonts/fontawesome/fontawesome-webfont.eot");
-  src: url("../fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.7") format("embedded-opentype"), url("../fonts/fontawesome/fontawesome-webfont.woff2") format("woff2"), url("../fonts/fontawesome/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome/fontawesome-webfont.ttf") format("truetype"), url("../fonts/fontawesome/fontawesome-webfont.svg#fontawesomeregular") format("svg");
+  src: url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.eot");
+  src: url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.eot#iefix&v=4.7") format("embedded-opentype"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.woff2") format("woff2"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.woff") format("woff"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.ttf") format("truetype"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/fontawesome/fontawesome-webfont.svg#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -21879,8 +21879,8 @@ body.admin-bar.is-mobile .close-side-aside {
 */
 @font-face {
   font-family: 'tiefonticon';
-  src: url("../fonts/tiefonticon/tiefonticon.eot");
-  src: url("../fonts/tiefonticon/tiefonticon.eot?#iefix") format("embedded-opentype"), url("../fonts/tiefonticon/tiefonticon.ttf") format("truetype"), url("../fonts/tiefonticon/tiefonticon.woff") format("woff"), url("../fonts/tiefonticon/tiefonticon.svg?#tiefonticon") format("svg");
+  src: url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/tiefonticon/tiefonticon.eot");
+  src: url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/tiefonticon/tiefonticon.eot#iefix") format("embedded-opentype"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/tiefonticon/tiefonticon.ttf") format("truetype"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/tiefonticon/tiefonticon.woff") format("woff"), url("https://malouse.github.io/healthmagazine/wp-content/themes/jannah-NULLED/fonts/tiefonticon/tiefonticon.svg#tiefonticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }

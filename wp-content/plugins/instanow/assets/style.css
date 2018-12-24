@@ -186,7 +186,7 @@
 .default-skin .instagram-logo, .dark-skin .instagram-logo{
 	width: 96px;
 	height: 29px;
-	background: url(images/instagram-logo.png) no-repeat;
+	background: url(https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/images/instagram-logo.png) no-repeat;
 }
 .default-skin .tie-instagram-bar{
 	background-color: #6f97b6;
@@ -281,7 +281,7 @@
 .lite-skin .instagram-logo{
 	width: 80px;
 	height: 25px;
-	background: url(images/instagram-logo-lite.png) no-repeat;
+	background: url(https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/images/instagram-logo-lite.png) no-repeat;
 }
 .lite-skin .tie-instagram-bar{
 	background-color: #f5f6f6;
@@ -651,7 +651,7 @@ a.tie-insta-load-more {
 
 .tie-insta-load-more-button span.tie-insta-loading{
 	display: none;
-	background:url(images/ajax-loader.gif) no-repeat center;
+	background:url(https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/images/ajax-loader.gif) no-repeat center;
 	width: 20px;
 	height: 20px;
 	margin: 5px auto;
@@ -659,7 +659,7 @@ a.tie-insta-load-more {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	.tie-insta-load-more-button span.tie-insta-loading{
-		background-image:url(images/ajax-loader@2x.gif);
+		background-image:url(https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/images/ajax-loader@2x.gif);
 		background-size: 16px 16px;
 	}
 }
@@ -706,18 +706,18 @@ a.tie-insta-load-more[data-pages="0"]{
 ----------------------------------------------- */
 @font-face {
   font-family: 'tieinstafontello';
-  src: url('../assets/fonts/fontello.eot?11129671');
-  src: url('../assets/fonts/fontello.eot?11129671#iefix') format('embedded-opentype'),
-	   url('../assets/fonts/fontello.woff?11129671') format('woff'),
-	   url('../assets/fonts/fontello.ttf?11129671') format('truetype'),
-	   url('../assets/fonts/fontello.svg?11129671#fontello') format('svg');
+  src: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/fonts/fontello.eot?11129671');
+  src: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/fonts/fontello.eot?11129671#iefix') format('embedded-opentype'),
+	   url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/fonts/fontello.woff?11129671') format('woff'),
+	   url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/fonts/fontello.ttf?11129671') format('truetype'),
+	   url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/fonts/fontello.svg?11129671#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
 	font-family: 'fontello';
-	src: url('../font/fontello.svg?11129671#fontello') format('svg');
+	src: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/font/fontello.svg?11129671#fontello') format('svg');
   }
 }
 [class^="tieinstaicon-"]:before, [class*=" tieinstaicon-"]:before {
@@ -816,7 +816,7 @@ body.rtl .tie-instagram.header-layout-2 .tie-instagram-counts ul li {
 	overflow: hidden;
 }
 .ilightbox-closedhand * {
-	cursor: url(ilightbox/closedhand.cur),default !important;
+	cursor: url(https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/assets/ilightbox/closedhand.cur),default !important;
 }
 
 .ilightbox-overlay {
@@ -1038,27 +1038,27 @@ body.rtl .tie-instagram.header-layout-2 .tie-instagram-counts ul li {
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.facebook a {
-	background-image: url('../social_icons/facebook_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/facebook_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.digg a {
-	background-image: url('../social_icons/digg_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/digg_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.twitter a {
-	background-image: url('../social_icons/twitter_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/twitter_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.delicious a {
-	background-image: url('../social_icons/delicious_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/delicious_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.reddit a {
-	background-image: url('../social_icons/reddit_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/reddit_16.png');
 }
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.googleplus a {
-	background-image: url('../social_icons/google_plus_16.png');
+	background-image: url('https://malouse.github.io/healthmagazine/wp-content/plugins/instanow/social_icons/google_plus_16.png');
 }
 
 .ilightbox-holder .ilightbox-alert {
