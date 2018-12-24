@@ -1,0 +1,16 @@
+{
+	"watchForFileChanges": false,
+	"baseUrl": "http://localhost:5000",
+	"pageLoadTimeout": 20000,
+	"integrationFolder": "tests/e2e/integration",
+	"supportFile": "tests/e2e/support/index.js",
+	"pluginsFile": "tests/e2e/plugins/index.js",
+	"fixturesFolder": "tests/e2e/fixtures",
+	"fileServerFolder": "log/application-data",
+	"screenshotsFolder": "log/screenshots",
+	"videosFolder": "log/videos",
+	"videoUploadOnPasses": false,
+	"videoCompression": 0,
+	"defaultCommandTimeout": 10000,
+	"projectId": "upr13a"
+}
